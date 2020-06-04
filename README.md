@@ -12,9 +12,9 @@ and run the program. Genesis 1:1 will be appended with "In the beginning God cre
         https://api.esv.org/
         https://hackathon.bible/data/
     
-    XML Parsing:
+   XML Parsing:
       C++ - https://www.google.com/search?q=xml+parsing+c%2B%2B&oq=xml+parsing+c%2B%2B&aqs=chrome..69i57.3196j0j7&sourceid=chrome&ie=UTF-8
-        http://xerces.apache.org/xerces-c/
-        http://www.cplusplus.com/forum/beginner/222517/
+      http://xerces.apache.org/xerces-c/
+      http://www.cplusplus.com/forum/beginner/222517/
       
-      Python - https://www.google.com/search?q=xml+parsing+python&oq=xml+parsing+python&aqs=chrome..69i57.5092j0j7&sourceid=chrome&ie=UTF-8
+   Python - https://www.google.com/search?q=xml+parsing+python&oq=xml+parsing+python&aqs=chrome..69i57.5092j0j7&sourceid=chrome&ie=UTF-8
